@@ -1,0 +1,326 @@
+2 Edifice of Authority
+2 Embalmer's Tools
+1 Gate to the Afterlife
+1 Implement of Improvement
+4 Luxa River Shrine
+1 Pyramid of the Pantheon
+3 Renegade Map
+1 Universal Solvent
+6 Honed Khopesh
+1 Irontread Crusher
+1 Renegade Freighter
+1 Watchers of the Dead
+1 Night Market Guard
+1 Bastion Mastodon
+1 Filigree Familiar
+1 Weldfast Monitor
+1 Snare Thopter
+48 Forest
+44 Island
+46 Mountain
+48 Plains
+46 Swamp
+1 Aetherborn Marauder
+1 Gifted Aetherborn
+1 Seraph of the Suns
+1 Serra Angel
+4 Winged Shepherd
+4 Ornery Kudu
+1 Bloodhunter Bat
+1 Arborback Stomper
+3 Desert Cerodon
+1 Garruk's Horde
+3 Manglehorn
+1 Ridgescale Tusker
+1 Bone Picker
+1 Skyswirl Harrier
+2 Oketra's Attendant
+5 Aven Initiate
+3 Aven Wind Guide
+6 Tah-Crop Elite
+1 Aven Mindcensor
+1 Zenith Seeker
+1 Outland Boar
+4 Quarry Hauler
+4 Supply Caravan
+1 Tasseled Dromedary
+1 Graceful Cat
+4 Initiate's Companion
+3 Pouncing Cheetah
+7 Sacred Cat
+1 Stalking Tiger
+5 Ancient Crab
+4 Crocodile of the Crossing
+1 Scaled Behemoth
+1 Baleful Ammit
+1 Shivan Dragon
+6 Angler Drake
+1 Enigma Drake
+1 Hinterland Drake
+4 Shimmerscale Drake
+1 Aviary Mechanic
+1 Aethergeode Miner
+1 Aerial Responder
+1 Bastion Enforcer
+1 Air Elemental
+1 Cultivator of Blades
+2 Druid of the Cowl
+3 Wild Wanderer
+1 Shipwreck Moray
+1 Thundering Giant
+1 Brazen Scourge
+1 Defiant Greatmaw
+1 Grim Strider
+6 Horror of the Broken Lands
+5 Doomed Dissenter
+1 Ruthless Sniper
+1 Aether Poisoner
+8 Anointer Priest
+1 Harsh Mentor
+6 Hekma Sentinels
+3 Scribe of the Mindful
+2 Shadowstorm Vizier
+4 Vizier of Deferment
+3 Vizier of Remedies
+2 Vizier of Tumbling Sands
+2 Channeler Initiate
+6 Oashra Cultivator
+2 Spireside Infiltrator
+1 Stealer of Secrets
+1 Standing Troops
+1 Ahn-Crop Champion
+4 Bloodlust Inciter
+2 Devoted Crop-Mate
+2 Exemplar of Strength
+1 Glory-Bound Initiate
+4 Honored Crop-Captain
+7 Nef-Crop Entangler
+5 Rhet-Crop Spearmaster
+3 Trueheart Duelist
+6 Unwavering Initiate
+7 Gust Walker
+5 Pathmaker Initiate
+3 Seeker of Insight
+1 Soul-Scar Mage
+3 Hyena Pack
+3 Labyrinth Guardian
+4 Colossapede
+1 Decimator Beetle
+3 Dune Beetle
+1 Battlefield Scavenger
+3 Bitterblade Warrior
+2 Champion of Rhonas
+2 Flameblade Adept
+1 Khenra Charioteer
+2 Nimble-Blade Khenra
+2 Trueheart Twins
+1 Rootwalla
+4 Shefet Monitor
+4 Thresher Lizard
+1 Heart-Piercer Manticore
+4 Manticore of the Gauntlet
+4 Minotaur Sureshot
+8 Pitiless Vizier
+5 Ahn-Crop Crasher
+2 Bloodrage Brawler
+4 Emberhorn Minotaur
+1 Merciless Javelineer
+2 Warfire Javelineer
+4 Naga Oracle
+5 Naga Vitalist
+4 Weaver of Currents
+7 Slither Blade
+5 Hooded Brawler
+5 Tah-Crop Skirmisher
+1 Watchful Naga
+1 Nightmare
+1 Stormfront Pegasus
+3 Wasteland Scorpion
+4 Soulstinger
+2 Cryptic Serpent
+7 River Serpent
+2 Vizier of Many Faces
+1 Honored Hydra
+1 Curator of Mysteries
+1 Glyph Keeper
+1 Sphinx of Magosi
+4 Giant Spider
+1 Sengir Vampire
+1 Bastion Inventor
+1 Nimble Innovator
+1 Vedalken Blademaster
+6 Greater Sandwurm
+4 Binding Mummy
+4 Fan Bearer
+5 Festering Mummy
+3 Lord of the Accursed
+4 Sparring Mummy
+5 Those Who Serve
+3 Wayward Servant
+7 Blighted Bat
+2 Plague Belcher
+1 Dread Wanderer
+5 Miasmic Mummy
+2 Tattered Mummy
+3 Cursed Minotaur
+1 Victory's Herald
+1 Anointed Procession
+1 As Foretold
+2 Bounty of the Luxa
+1 Cast Out
+1 Drake Haven
+2 Faith of the Devoted
+1 Hazoret's Favor
+1 Liliana's Mastery
+1 Nest of Scarabs
+2 Protection of the Hekma
+1 Trial of Ambition
+2 Trial of Knowledge
+5 Trial of Solidarity
+5 Trial of Strength
+3 Trial of Zeal
+4 Compulsory Rest
+2 Consuming Fervor
+4 Gift of Paradise
+3 Illusory Wrappings
+4 Lay Claim
+1 Malfunction
+1 Oakenform
+1 Revoke Privileges
+1 Sixth Sense
+1 Tricks of the Trade
+1 Untamed Hunger
+5 Cartouche of Ambition
+8 Cartouche of Knowledge
+8 Cartouche of Solidarity
+4 Cartouche of Strength
+9 Cartouche of Zeal
+2 Cruel Reality
+5 Trespasser's Curse
+1 Blossoming Defense
+8 Brute Strength
+5 Cancel
+1 Censor
+1 Commit // Memory
+6 Decision Paralysis
+2 Deem Worthy
+2 Destined // Lead
+3 Dissenter's Deliverance
+1 Divine Verdict
+4 Djeru's Resolve
+6 Electrify
+5 Essence Scatter
+1 Failure // Comply
+5 Final Reward
+7 Fling
+3 Forsake the Worldly
+1 Galestrike
+1 Glorious End
+2 Hapatra's Mark
+1 Harnessed Lightning
+7 Haze of Pollen
+1 Heaven // Earth
+7 Hieroglyphic Illumination
+1 Hungry Flames
+5 Impeccable Timing
+4 In Oketra's Name
+1 Leave in the Dust
+5 Magma Spray
+5 Mighty Leap
+1 Natural Obsolescence
+1 Negate
+1 Onward // Victory
+1 Perilous Predicament
+5 Pursue Glory
+2 Reduce // Rubble
+1 Renewed Faith
+1 Revolutionary Rebuff
+1 Rush of Vitality
+4 Scarab Feast
+1 Shadow of the Grave
+5 Shed Weakness
+3 Shock
+7 Spidery Grasp
+7 Splendid Agony
+3 Start // Finish
+3 Stinging Shot
+5 Supernatural Stamina
+3 Synchronized Strike
+2 Time to Reflect
+1 Welding Sparks
+4 Winds of Rebuke
+1 Cascading Cataracts
+2 Cinder Barrens
+10 Evolving Wilds
+2 Forsaken Sanctuary
+2 Foul Orchard
+2 Highland Lake
+2 Meandering River
+2 Stone Quarry
+2 Submerged Boneyard
+2 Timber Gorge
+2 Tranquil Expanse
+2 Woodland Stream
+4 Cradle of the Accursed
+5 Painted Bluffs
+6 Sunscorched Desert
+1 Scattered Groves
+1 Sheltered Thicket
+1 Irrigated Farmland
+1 Canyon Slough
+1 Bontu's Monument
+2 Hazoret's Monument
+1 Kefnet's Monument
+2 Oketra's Monument
+1 Rhonas's Monument
+1 Oketra the True
+1 Temmet, Vizier of Naktamun
+1 Neheb, the Worthy
+1 Nissa, Steward of Elements
+2 Approach of the Second Sun
+6 Benefaction of Rhonas
+5 Blazing Volley
+2 By Force
+1 Cathartic Reunion
+6 Compelling Argument
+1 Cut // Ribbons
+1 Daring Demolition
+1 Dispossess
+1 Dusk // Dawn
+3 Floodwaters
+1 Fragmentize
+2 Harvest Season
+1 Hijack
+1 Insult // Injury
+2 Larger Than Life
+2 Lay Bare the Heart
+2 Limits of Solidarity
+1 Mind Rot
+1 Open into Wonder
+7 Painful Lesson
+1 Rags // Riches
+1 Raise Dead
+1 Resourceful Return
+2 Sacred Excavation
+4 Spring // Mind
+1 Stir the Sands
+4 Tormenting Voice
+4 Unburden
+6 Violent Impact
+5 Wander in Death
+1 Wing Snare
+2 Token: Angel of Sanctions
+2 Token: Oketra's Attendant
+5 Token: Aven Initiate
+3 Token: Aven Wind Guide
+3 Token: Sacred Cat
+5 Token: Anointer Priest
+2 Token: Temmet, Vizier of Naktamun
+2 Token: Trueheart Duelist
+3 Token: Unwavering Initiate
+3 Token: Labyrinth Guardian
+1 Token: Heart-Piercer Manticore
+3 Token: Tah-Crop Skirmisher
+1 Token: Vizier of Many Faces
+1 Token: Honored Hydra
+2 Token: Glyph Keeper
